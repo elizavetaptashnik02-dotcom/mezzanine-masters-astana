@@ -18,7 +18,7 @@ const Footer = () => {
                 size="icon"
                 asChild
               >
-                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                <a href="https://www.instagram.com/_ktmgroup?igsh=bTRpcGE1eGQwZzNu" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
                   <Instagram className="w-5 h-5" />
                 </a>
               </Button>
@@ -27,7 +27,7 @@ const Footer = () => {
                 size="icon"
                 asChild
               >
-                <a href="https://wa.me/77000000000" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+                <a href="https://wa.me/77758887716" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
                   <MessageCircle className="w-5 h-5" />
                 </a>
               </Button>
@@ -39,11 +39,18 @@ const Footer = () => {
             <h4 className="text-lg font-semibold mb-4">Контакты</h4>
             <div className="space-y-3">
               <a 
-                href="tel:+77000000000" 
+                href="tel:+77758887716" 
                 className="flex items-start gap-3 text-primary-foreground/80 hover:text-primary-foreground transition-colors"
               >
                 <Phone className="w-5 h-5 flex-shrink-0 mt-0.5" />
-                <span>+7 (700) 000-00-00</span>
+                <span>+7 (775) 888-77-16</span>
+              </a>
+              <a 
+                href="tel:+77078707791" 
+                className="flex items-start gap-3 text-primary-foreground/80 hover:text-primary-foreground transition-colors"
+              >
+                <Phone className="w-5 h-5 flex-shrink-0 mt-0.5" />
+                <span>+7 (707) 870-77-91</span>
               </a>
               <a 
                 href="mailto:info@antresol-astana.kz" 
@@ -54,7 +61,7 @@ const Footer = () => {
               </a>
               <div className="flex items-start gap-3 text-primary-foreground/80">
                 <MapPin className="w-5 h-5 flex-shrink-0 mt-0.5" />
-                <span>г. Астана, ул. Примерная 123</span>
+                <span>г. Астана, Найзакара 2/6</span>
               </div>
             </div>
           </div>
