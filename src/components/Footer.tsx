@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
           {/* Company Info */}
           <div>
-            <h3 className="text-2xl font-bold mb-4">Антресоль Астана</h3>
+            <h3 className="text-2xl font-bold mb-4">KTM Group</h3>
             <p className="text-primary-foreground/80 mb-4">
               Проектирование и монтаж антресольных этажей и металлоконструкций под ключ
             </p>
@@ -53,11 +53,11 @@ const Footer = () => {
                 <span>+7 (707) 870-77-91</span>
               </a>
               <a 
-                href="mailto:info@antresol-astana.kz" 
+                href="mailto:aidik060405@gmail.com" 
                 className="flex items-start gap-3 text-primary-foreground/80 hover:text-primary-foreground transition-colors"
               >
                 <Mail className="w-5 h-5 flex-shrink-0 mt-0.5" />
-                <span>info@antresol-astana.kz</span>
+                <span>aidik060405@gmail.com</span>
               </a>
               <div className="flex items-start gap-3 text-primary-foreground/80">
                 <MapPin className="w-5 h-5 flex-shrink-0 mt-0.5" />
@@ -102,7 +102,7 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-primary-foreground/60 text-sm">
-              © 2025 Антресоль Астана. Все права защищены.
+              © 2025 KTM Group. Все права защищены.
             </p>
             <div className="flex gap-6 text-sm text-primary-foreground/60">
               <a href="#" className="hover:text-primary-foreground transition-colors">
